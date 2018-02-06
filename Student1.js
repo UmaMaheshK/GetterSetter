@@ -21,4 +21,4 @@ class Employee extends Student {
 let emp = new Employee('Uma Mahesh');
 emp.display();//Uma Mahesh
 emp.display1();//Uma Mahesh in in Student 
-                //Uma Mahesh in Employee
+               //Uma Mahesh in Employee
